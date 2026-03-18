@@ -1,6 +1,5 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=Aarush49&color=blue&style=for-the-badge)
-
 ## Hey, I'm Aarush Agrawal 
+![Visitor Count](https://komarev.com/ghpvc/?username=Aarush49&color=blue&style=flat)
 
 I'm a Computer Science student at UTD with a passion for AI, analytics, and real-world tech solutions. Actively exploring research and internship opportunities.
 
