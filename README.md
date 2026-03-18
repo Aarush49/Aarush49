@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hey, I'm Aarush Agrawal 👋
 
-<!--
-**Aarush49/Aarush49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at UTD with a passion for AI, analytics, and real-world tech solutions. Actively exploring research and internship opportunities.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🙋 About Me
+
+- 🎓 Studying Computer Science @ UT Dallas
+- 🤖 Currently learning: Machine Learning & AI
+- 💬 Ask me about: AI, data analytics, and tech
+- 🔍 Open to: Research & internship opportunities
+
+---
+
+### 🎵 Now Playing
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rcc66azyxax67og6wzp0ggoi1&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agrawalaarush/)
