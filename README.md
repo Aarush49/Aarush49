@@ -3,6 +3,8 @@
 
 I'm a Computer Science student at UTD with a passion for AI, analytics, and real-world tech solutions. Actively exploring research and internship opportunities.
 
+aarushagrawal.me
+
 ---
 
 ### About Me
