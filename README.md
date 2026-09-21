@@ -13,12 +13,6 @@ http://aarushagrawal.me
 
 ---
 
-### Now Playing
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rcc66azyxax67og6wzp0ggoi1&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
-
----
-
 ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agrawalaarush/)
