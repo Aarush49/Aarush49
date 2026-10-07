@@ -22,18 +22,18 @@ CS Undergraduate at **The University of Texas at Dallas** (GPA: 3.79 | Expected 
 
 ### Featured Projects
 
-- **[TriFit](https://aarushagrawal.me)** — Adaptive AI endurance training platform generating dynamic workout schemes via Gemini AI & ElevenLabs (`React Native`, `FastAPI`, `Python`).
-- **[Model Checker](https://github.com/Aarush49/model-checker)** — Cross-platform, privacy-focused desktop application for local ML model evaluation (`Rust`, `Dioxus`, `ONNX Runtime`, `DirectML`).
-- **[CrashOut](https://devpost.com/software/cyberarena)** — Real-time multiplayer cybersecurity learning game with WebSocket state synchronization (`TypeScript`, `Node.js`, `Express`, `MongoDB`).
+- **[TriFit](https://aarushagrawal.me)** - Adaptive AI endurance training platform generating dynamic workout schemes via Gemini AI & ElevenLabs (`React Native`, `FastAPI`, `Python`).
+- **[Model Checker](https://github.com/Aarush49/model-checker)** - Cross-platform, privacy-focused desktop application for local ML model evaluation (`Rust`, `Dioxus`, `ONNX Runtime`, `DirectML`).
+- **[CrashOut](https://devpost.com/software/cyberarena)** - Real-time multiplayer cybersecurity learning game with WebSocket state synchronization (`TypeScript`, `Node.js`, `Express`, `MongoDB`).
 
 ---
 
 ### Certifications
 
-- **Google** — Google AI Certification
-- **DeepLearning.AI** — Machine Learning Specialization (Supervised, Advanced, Unsupervised)
-- **Stanford University** — Game Theory
-- **Bloomberg** — Bloomberg Finance Fundamentals
+- **Google** - Google AI Certification
+- **DeepLearning.AI** - Machine Learning Specialization (Supervised, Advanced, Unsupervised)
+- **Stanford University** - Game Theory
+- **Bloomberg** - Bloomberg Finance Fundamentals
 
 ---
 
