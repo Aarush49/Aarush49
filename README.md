@@ -7,7 +7,7 @@ CS Undergraduate at **The University of Texas at Dallas** (GPA: 3.79 | Expected 
 
 ### Currently Working On
 
-- **EPICS@UTD (Vets4Warriors):** Architecting a predictive staffing optimization web app using **LightGBM** demand forecasting and **Erlang C** queuing theory to streamline call center shift scheduling.
+- **EPICS@UTD (Vets4Warriors):** Architecting a predictive staffing optimization web app using **LightGBM** demand forecasting and **Erlang A** queuing theory to streamline call center shift scheduling.
 
 ---
 
